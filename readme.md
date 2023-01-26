@@ -1,1 +1,1 @@
-![header](https://capsule-render.vercel.app/api?type=Waving&color=4e63d6&height=200&section=header&text=겜마고&fontSize=50&animation=fadeIn&fontColor=DDDDDD)f
+![header](https://capsule-render.vercel.app/api?type=Waving&color=4e63d6&height=100&section=header&text=겜마고_신입생&fontSize=70&animation=fadeIn&fontColor=DDDDDD)f

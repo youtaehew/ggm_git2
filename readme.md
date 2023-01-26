@@ -1,1 +1,1 @@
-![header](https://capsule-render.vercel.app/api?type=Waving&color=36F&height=400&section=header&text=10217유태희&fontSize=80&animation=fadeIn&fontColor=*0FF*)f
+![header](https://capsule-render.vercel.app/api?type=Waving&color=6C0&height=400&section=header&text=10217유태희&fontSize=80&animation=fadeIn&fontColor=*0FF*)f
